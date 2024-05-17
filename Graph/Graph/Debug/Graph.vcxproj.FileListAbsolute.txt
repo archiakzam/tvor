@@ -1,0 +1,9 @@
+C:\Users\Matvey\Desktop\Graph\Graph\Debug\Graph.vcxproj.AssemblyReference.cache
+C:\Users\Matvey\Desktop\Graph\Graph\Debug\Graph.MyForm.resources
+C:\Users\Matvey\Desktop\Graph\Graph\Debug\Graph.vcxproj.GenerateResource.cache
+C:\Users\Matvey\Desktop\Лабы_\Graph\Graph\Debug\Graph.vcxproj.AssemblyReference.cache
+C:\Users\Matvey\Desktop\Лабы_\Graph\Graph\Debug\Graph.MyForm.resources
+C:\Users\Matvey\Desktop\Лабы_\Graph\Graph\Debug\Graph.vcxproj.GenerateResource.cache
+C:\Users\Matvey\Desktop\Labs\Graph\Graph\Debug\Graph.vcxproj.AssemblyReference.cache
+C:\Users\Matvey\Desktop\Labs\Graph\Graph\Debug\Graph.MyForm.resources
+C:\Users\Matvey\Desktop\Labs\Graph\Graph\Debug\Graph.vcxproj.GenerateResource.cache

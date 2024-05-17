@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Matvey\Desktop\Labs\Graph\Graph\Graph.h(182,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Matvey\Desktop\Labs\Graph\Graph\Graph.h(199,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Matvey\Desktop\Labs\Graph\Graph\Graph.h(223,31): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Graph.vcxproj -> C:\Users\Matvey\Desktop\Labs\Graph\Debug\Graph.exe
